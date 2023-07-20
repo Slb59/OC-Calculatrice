@@ -1,4 +1,5 @@
-venv
+# no environnement, ide files
+.venv
 .idea
 *.pyc
 __pycache__
