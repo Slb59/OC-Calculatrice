@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 flake8 = "==3.9.2"
 pytest = "==6.2.4"
+pytest-mock = "*"
 
 [dev-packages]
 
